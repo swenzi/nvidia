@@ -1,2 +1,2 @@
-FROM wenzis/caffe:19.01-py2
+FROM nvcr.io/nvidia/caffe:19.01-py2
 MAINTAINER qiliang@leinao.ai
