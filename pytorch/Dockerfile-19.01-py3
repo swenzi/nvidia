@@ -1,2 +1,2 @@
-FROM nvcr.io/nvidia/pytorch:19.01-py3
+FROM wenzis/pytorch:19.01-py3
 MAINTAINER qiliang@leinao.ai
