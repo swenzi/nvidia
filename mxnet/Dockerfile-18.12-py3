@@ -1,0 +1,2 @@
+FROM nvcr.io/nvidia/mxnet:18.12-py3
+MAINTAINER qiliang@leinao.ai
