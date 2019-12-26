@@ -1,0 +1,2 @@
+FROM wenzis/mxnet:19.07-py3
+MAINTAINER qiliang@leinao.ai
